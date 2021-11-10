@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @fplanting!
+- 👋 Hi, I’m Frida!
 - 🌱 I’m currently learning to be a Front End developer.
