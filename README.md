@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @fplanting!
+- 🌱 I’m currently learning to be a Front End developer.
